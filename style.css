@@ -1,0 +1,32 @@
+  .navbar-style {
+    color: white;
+    
+}
+.nav-item:hover {
+background-color: rgb(219, 206, 206);
+transition-duration: 1s;
+transform: scale(1.15) ;
+border-radius: 3rem;
+
+}
+/* color style  */
+.car-bg-color{
+  background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
+.car-button-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    border: none;
+    border-radius: 2rem;
+    padding:9px 25px;
+    margin-bottom: 3rem;
+    color:white;
+}
+/* font awesome style */
+
+.fab:hover{
+  transform: scale(1.50);
+  transition-duration: 2ms;
+}
+.anchor{
+  text-decoration: none;
+}
